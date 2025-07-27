@@ -1,17 +1,19 @@
 # ProjectHub
-Mechanical Engineer with experience in computational modeling and medical device design. Currently working on pulmonary vein simulations, focusing on image segmentation and fluid dynamics analysis using tools such as ANSYS Mechanical, Fluent, and qualitative research methods.
-# 👋 Nili U. — Mechanical Engineering Portfolio
+Welcome! I'm **Nili**, a Mechanical Engineer with a focus on **computational modeling**, **system simulation**, and **mechanical design**.
 
-Welcome! I'm **Nili**, a Mechanical Engineer with experience in **computational modeling**, **medical device design**, and **image segmentation** for pulmonary vein simulations.
+I'm currently applying tools like **ANSYS Mechanical**, **ANSYS Fluent**, and image processing techniques to support biomedical research — specifically in modeling pulmonary vein systems. While the current application is in healthcare, my core strengths lie in **fluid dynamics**, **simulation**, and **process optimization** — skills that are highly transferable across industries such as **aerospace**, **automotive**, **energy**, and **advanced manufacturing**.
 
-Currently, I'm contributing to biomedical research through **fluid dynamics analysis** using tools like **ANSYS Mechanical**, **ANSYS Fluent**, and qualitative methods in image processing. I enjoy solving complex engineering problems and building systems that bridge mechanical and biomedical applications.
+---
+
+This portfolio showcases selected projects involving CAD design, FEA/CFD simulations, and system-level modeling, with an emphasis on engineering analysis and problem-solving.
+
 
 ---
 
 ## 🔧 Skills & Tools
 - **CAD**: SolidWorks, AutoCAD
 - **Simulation & Analysis**: ANSYS Mechanical, Fluent, MATLAB
-- **Programming & Image Processing**: Python (segmentation), MATLAB
+- **Programming & Image Processing**: Python (segmentation), MATLAB, VBA Macros, Simul8
 - **Other**: FEA, CFD, Technical Documentation
 
 ---
@@ -31,21 +33,25 @@ Currently, I'm contributing to biomedical research through **fluid dynamics anal
 
 ## 🧠 Experience Highlights
 **Research Assistant**  
-*University Biomedical Lab* — *Jan 2024 – Present*  
+*University Biomedical Lab* — *Sept 2023 – Present*  
 - Developed image segmentation pipelines  
 - Conducted fluid simulations in ANSYS  
 - Created technical reports and visualizations for research publication
 
-**Engineering Intern**  
+**Quality Imporvement Specialitst**  
 *Medical Device Startup* — *Summer 2023*  
-- Designed and tested mechanical components  
-- Participated in rapid prototyping and design reviews  
+- Data-Driven Reporting: Audited 800+ patient charts and built advanced Excel reports to track key metrics, improving accuracy and supporting accreditation under a 4-month deadline.
+- Process Automation & Post-Implementation Support: Automated patient survey data retrieval with VBA, cutting analysis time by 80% and saving $1,000. Refined the report interface based on team feedback to improve usability and stakeholder alignment.
+- Conducted a root-cause analysis to identify inefficiencies and gaps in clinical workflow
+- Modeled the clinic's processes using **Simul8** to simulate patient flow and system performanceConducted a root-cause analysis to identify inefficiencies and gaps in clinical workflow
+
+
 
 ---
 
 ## 🎓 Education
-**B.Sc. in Mechanical Engineering**  
-University Name — Class of 2025 *(Expected)*
+**BASc. in Mechanical Engineering**  
+University of Toronto (2019 - 2024)
 
 ---
 
