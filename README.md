@@ -38,7 +38,7 @@ This portfolio showcases selected projects involving CAD design, FEA/CFD simulat
 - Conducted fluid simulations in ANSYS  
 - Created technical reports and visualizations for research publication
 
-**Quality Imporvement Specialitst**  
+**Quality Improvement Specialitst**  
 *Healthcare* — *Aug 2022-2023*  
 - Data-Driven Reporting: Audited 800+ patient charts and built advanced Excel reports to track key metrics, improving accuracy and supporting accreditation under a 4-month deadline.
 - Process Automation & Post-Implementation Support: Automated patient survey data retrieval with VBA, cutting analysis time by 80% and saving $1,000. Refined the report interface based on team feedback to improve usability and stakeholder alignment.
