@@ -11,6 +11,7 @@ This model represents a simplified **jigsaw mechanism**, designed to illustrate 
 
 ### 🖼️ Preview
 ![Jigsaw Assembly](https://github.com/nili-yay/ProjectHub/blob/main/CAD-Modeling/CAD-Modeling/Jigsaw/Jigsaw_Single.png)
+
 [📄 View Full Screenshot Set (PDF)](https://github.com/nili-yay/ProjectHub/blob/main/CAD-Modeling/CAD-Modeling/Jigsaw/Jigsaw_Screenshots.pdf)
 [Download Assembly File](https://github.com/nili-yay/ProjectHub/blob/main/CAD-Modeling/CAD-Modeling/Jigsaw/Final%20Assembly.SLDASM)
 
