@@ -17,7 +17,7 @@ This project demonstrates a compact right-angle gearbox designed using SolidWork
 
 ### 🖼️ Preview
 
-![Gearbox Assembly](CAD-Modeling/Gearbox/screenshots/gearbox-overview.png)
+![Gearbox Assembly](https://github.com/nili-yay/ProjectHub/blob/main/CAD-Modeling/GearBox/GearBox_Preview.png)
 
 > Modeled in SolidWorks as part of a group mechanical design project.
 
