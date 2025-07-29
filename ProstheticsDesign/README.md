@@ -52,6 +52,6 @@ This project was awarded **First Place in the Commercial Readiness Category** at
 
 [🌐 View Official Competition Page](https://csme-ndc.ca/previous-submissions/)
 
-> The award recognized the project's market viability, user-centered design, and practical manufacturability.
+> ACKNOS Prosthetics Tactile Sensing Prosthetic Thumb (2024 Winners) - The award recognized the project's market viability, user-centered design, and practical manufacturability.
 
 ---
