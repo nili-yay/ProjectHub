@@ -30,9 +30,15 @@ The design was submitted to the **2024 Canadian Society for Mechanical Engineeri
 
 ## 🎥 Demo Video
 
-[▶️ Watch the demo video on Google Drive] (https://drive.google.com/file/d/15T3orEypSsIQNmWUAzoWipDwBtTRPDey/view?usp=share_link)
+[▶️ Watch the demo video] (https://drive.google.com/file/d/15T3orEypSsIQNmWUAzoWipDwBtTRPDey/view?usp=share_link)
 
 > This short video demonstrates the key features of the prosthetic device, including its movement, fit, and modular components.
+
+## 🎞️ A behind-the-scenes look at building and iterating the Silicon Interface design.
+[▶️ Watch the Behind-the-Scenes video] (https://drive.google.com/file/d/1oXUrORV2e1I1nnrZvGB7u980l6zDnBa0/view?usp=share_link)
+
+## 🎞️ Working Prototype
+[▶️ Live Vibrational and Visual Feedback using Protoype] (https://drive.google.com/file/d/1to7fq7OVUPxGktzOXBmbR7Lx0pxtflon/view?usp=share_link)
 
 ---
 
