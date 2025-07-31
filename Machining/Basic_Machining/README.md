@@ -6,7 +6,7 @@ This project showcases hands-on machining experience through the fabrication of 
 
 Using manual machining tools including the **lathe**, **mill**, and **drill press**, I manufactured and assembled a working model of a piston-crank mechanism. The components were machined from aluminum stock and assembled using fasteners to demonstrate rotational motion transfer.
 
-![In Action!](https://github.com/nili-yay/ProjectHub/blob/main/Machining/Basic_Machining/Machine.jpg)
+![In Action!]([https://github.com/nili-yay/ProjectHub/blob/main/Machining/Basic_Machining/Machine.jpg](https://github.com/nili-yay/ProjectHub/blob/main/Machining/Basic_Machining/Tools.png))
 
 ## 🛠️ Skills Gained
 - Lathe operations (facing, turning, parting, grooving)
@@ -16,7 +16,7 @@ Using manual machining tools including the **lathe**, **mill**, and **drill pres
 - Workshop safety and tool setup procedures
 
 ## 🎥 Media
-- [Watch the machining process](https://drive.google.com/file/d/1VhbRIXVCW14O2zeH5oup4NZuLlNbPmGV/view?usp=share_link) <!-- Replace with your video link if available -->
+- [Watch the Piston In Action](https://drive.google.com/file/d/1VhbRIXVCW14O2zeH5oup4NZuLlNbPmGV/view?usp=share_link) <!-- Replace with your video link if available -->
 
 ## 📍 Context
 
