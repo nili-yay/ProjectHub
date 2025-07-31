@@ -38,7 +38,7 @@ The design was submitted to the **2024 Canadian Society for Mechanical Engineeri
 
 ## 📄 Summary Report
 
-[📘 View the Prosthetics Design Summary Report (PDF)](./CSME_Report.pdf)
+[📘 View the Prosthetics Design Summary Report (PDF)](https://github.com/nili-yay/ProjectHub/blob/main/ProstheticsDesign/CSME_Report.pdf)
 
 > Includes project background, design process, mechanical analysis, and reflections on usability testing.
 
