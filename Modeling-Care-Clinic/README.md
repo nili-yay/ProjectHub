@@ -69,7 +69,7 @@ To answer this, I built a **discrete event simulation** using Simul8 to mirror t
 
 > _Simulation Screenshot (Add your image below)_
 
-![Simulation Screenshot](./path-to-your-image.png)
+![Simulation Screenshot](https://github.com/nili-yay/ProjectHub/blob/main/Modeling-Care-Clinic/Simul8.png)
 
 > _More visuals and workflows coming soon._
 
