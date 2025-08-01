@@ -66,12 +66,13 @@ To answer this, I built a **discrete event simulation** using Simul8 to mirror t
 ---
 
 ## 🖼 Visuals
+Due to the clinical nature of this project, most assets and screenshots are confidential.
 
-> _Simulation Screenshot (Add your image below)_
+> The image below is a sanitized overview of the simulation platform layout.
 
 ![Simulation Screenshot](https://github.com/nili-yay/ProjectHub/blob/main/Modeling-Care-Clinic/Simul8.png)
 
-> _More visuals and workflows coming soon._
+
 
 ---
 
