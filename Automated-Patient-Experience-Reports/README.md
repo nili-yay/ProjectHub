@@ -8,7 +8,7 @@ This project automated the **monthly reporting** of patient feedback from a thir
 
 Patients would receive treatment, leave, and later receive an **automated follow-up call** surveying their experience (e.g. “Were you helped promptly?”, “Did you encounter issues?”).
 
-The **third-party vendor** returned results as unstructured, text-heavy `.txt` files. My manager tasked me with **manually compiling** results for monthly executive reports — but I saw a better way.
+The third-party vendor returned results as unstructured, text-heavy .txt files. I was initially tasked with manually compiling the data for monthly executive reports, but I recognized an opportunity to streamline the process and reduce manual effort."
 
 ---
 
