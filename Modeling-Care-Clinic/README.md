@@ -49,7 +49,7 @@ To answer this, I built a **discrete event simulation** using Simul8 to mirror t
 ## 💬 Software & Setup
 
 - Advocated for a **Simul8 software upgrade** when the current version fell short.
-- Negotiated a **price reduction** by highlighting long-term customer history.
+- Negotiated a **price reduction** by $1000 highlighting long-term customer history.
 - Requested **on-site support** to ensure smooth transition.
 - Personally handled **software installation and environment setup** to meet team needs.
 
