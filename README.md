@@ -59,7 +59,7 @@ My coursework spans a multidisciplinary engineering foundation, combining core t
 - **Mechatronics & Controls**: Circuit Design (Analog + Digital), Control Systems  
 - **Design & Systems Thinking**: Product Design, Benchmarking, DOE, Life Cycle Analysis (LCA)  
 - **Business & Strategy**: Engineering Economics, Marketing, Organizational Behaviour, Design for Environment  
-- **Math & Communication**: Probability & Statistics, Technical Communication, Positiv
+- **Math & Communication**: Probability & Statistics, Technical Communication, Positive Psychology for Engineers
 
 ---
 
