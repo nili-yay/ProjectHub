@@ -43,15 +43,23 @@ This portfolio showcases selected projects involving CAD design, FEA/CFD simulat
 - Data-Driven Reporting: Audited 800+ patient charts and built advanced Excel reports to track key metrics, improving accuracy and supporting accreditation under a 4-month deadline.
 - Process Automation & Post-Implementation Support: Automated patient survey data retrieval with VBA, cutting analysis time by 80% and saving $1,000. Refined the report interface based on team feedback to improve usability and stakeholder alignment.
 - Conducted a root-cause analysis to identify inefficiencies and gaps in clinical workflow
-- Modeled the clinic's processes using **Simul8** to simulate patient flow and system performanceConducted a root-cause analysis to identify inefficiencies and gaps in clinical workflow
-
-
+- Modeled the clinic's processes using **Simul8** to simulate patient flow and system performance
 
 ---
 
 ## 🎓 Education
 **BASc. in Mechanical Engineering**  
 University of Toronto (2019 - 2024)
+Engineering Business Certificate
+George Brown Maching Course
+
+My coursework spans a multidisciplinary engineering foundation, combining core technical, design, and business skills:
+
+- **Mechanical & Fluids**: Solid Mechanics, Thermodynamics, Heat & Mass Transfer, Fluid Dynamics, Biofluid Mechanics, Applied CFD  
+- **Mechatronics & Controls**: Circuit Design (Analog + Digital), Control Systems  
+- **Design & Systems Thinking**: Product Design, Benchmarking, DOE, Life Cycle Analysis (LCA)  
+- **Business & Strategy**: Engineering Economics, Marketing, Organizational Behaviour, Design for Environment  
+- **Math & Communication**: Probability & Statistics, Technical Communication, Positiv
 
 ---
 
