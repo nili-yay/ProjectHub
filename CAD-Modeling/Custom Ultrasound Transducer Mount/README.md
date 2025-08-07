@@ -2,7 +2,7 @@
 
 ## 📝 Project Summary
 
-This repository contains the CAD design and iterations for a custom 3D-printed ultrasound transducer holder developed for the research study.
+This repository contains the CAD design and iterations for a custom 3D-printed ultrasound transducer holder developed for a research study.
 
 This work was presented at the **Toronto Biomedical Conference (ToBE)**.
 
