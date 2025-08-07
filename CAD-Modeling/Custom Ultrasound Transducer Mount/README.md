@@ -23,9 +23,8 @@ I assisted in modeling the CAD file for the transducer mount, as the lead author
 
 - 🧱 [Initial Design (V1) – STL File](https://github.com/nili-yay/ProjectHub/blob/main/CAD-Modeling/Custom%20Ultrasound%20Transducer%20Mount/First_Iteration.STL)  
 - 🧱 [Final Design (V3) – STL File](https://github.com/nili-yay/ProjectHub/blob/main/CAD-Modeling/Custom%20Ultrasound%20Transducer%20Mount/Final.stl)  
-- 📄 [Conference Poster (PDF)](https://github.com/nili-yay/ProjectHub/blob/main/CAD-Modeling/Custom%20Ultrasound%20Transducer%20Mount/Toronto_Biomedical_Conference_Poster_ToBE.pdf)
+- 📄 [Conference Poster (PDF)](To be uploaded soon)
 
-> ✅ Make sure to use a slicing tool (e.g. Cura, PrusaSlicer) to prepare these STL files for 3D printing.
 
 ## 🔁 Design Iteration Summary
 
