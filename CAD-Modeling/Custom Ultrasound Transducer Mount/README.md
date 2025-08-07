@@ -21,9 +21,11 @@ I assisted in modeling the CAD file for the transducer mount, as the lead author
 
 ## 📁 Files Included
 
-- `initial_design.STL` – First version (no fillets, base dimensions).
-- `final_design.STL` – Final tested design (with fillets and improved fit).
-- `conference_poster.pdf` – Poster presented at ToBE 2025.
+- 🧱 [Initial Design (V1) – STL File](https://github.com/nili-yay/ProjectHub/blob/main/CAD-Modeling/Custom%20Ultrasound%20Transducer%20Mount/First_Iteration.STL)  
+- 🧱 [Final Design (V3) – STL File](https://github.com/nili-yay/ProjectHub/blob/main/CAD-Modeling/Custom%20Ultrasound%20Transducer%20Mount/Final.stl)  
+- 📄 [Conference Poster (PDF)](https://github.com/nili-yay/ProjectHub/blob/main/CAD-Modeling/Custom%20Ultrasound%20Transducer%20Mount/Toronto_Biomedical_Conference_Poster_ToBE.pdf)
+
+> ✅ Make sure to use a slicing tool (e.g. Cura, PrusaSlicer) to prepare these STL files for 3D printing.
 
 ## 🔁 Design Iteration Summary
 
@@ -36,3 +38,7 @@ I assisted in modeling the CAD file for the transducer mount, as the lead author
 ## 🖨️ 3D Printing & Testing
 
 The final design was exported as an STL file and 3D printed. It was physically tested and confirmed to minimize transducer motion during ultrasound data collection.
+
+---
+
+Feel free to open an issue if you'd like to replicate or adapt this design for your own research setup.
