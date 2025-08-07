@@ -36,6 +36,3 @@ I assisted in modeling the CAD file for the transducer mount, as the lead author
 
 The final design was exported as an STL file and 3D printed. It was physically tested and confirmed to minimize transducer motion during ultrasound data collection.
 
----
-
-Feel free to open an issue if you'd like to replicate or adapt this design for your own research setup.
