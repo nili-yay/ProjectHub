@@ -1,5 +1,5 @@
 # ProjectHub
-Welcome! I'm **Nili**, a Mechanical Engineer Graduate with a focus on **computational modeling**, **system simulation**, and **mechanical design**.
+Welcome! I'm **Nili**, a Mechanical Engineering Graduate with a focus on **computational modeling**, **system simulation**, and **mechanical design**.
 
 I'm currently applying tools like **ANSYS Mechanical**, **ANSYS Fluent**, and image processing techniques to support biomedical research — specifically in modeling pulmonary vein systems. While the current application is in healthcare, my core strengths lie in **fluid dynamics**, **simulation**, and **process optimization** — skills that are highly transferable across industries such as **aerospace**, **automotive**, **energy**, and **advanced manufacturing**.
 
