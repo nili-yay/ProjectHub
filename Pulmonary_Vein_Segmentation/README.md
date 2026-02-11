@@ -19,7 +19,7 @@ That’s exactly where **segmentation** comes in:
 > “Hey — *this* is what I need!”
 
 🖼️ Here is an example **CT scan image** used in this project:  
-👉 [View the CT Scan](https://drive.google.com/file/d/1BZZS495FTN9Dvd3mExb_9UUPNt8kje-C/view?usp=share_link)
+![View the CT Scan](https://github.com/nili-yay/ProjectHub/blob/main/Pulmonary_Vein_Segmentation/PV%20Greyscale.png)
 
 ---
 
