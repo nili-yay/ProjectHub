@@ -18,6 +18,8 @@ That’s exactly where **segmentation** comes in:
 > How do we tell the software:  
 > “Hey — *this* is what I need!”
 
+![CT Scan!](https://drive.google.com/file/d/1BZZS495FTN9Dvd3mExb_9UUPNt8kje-C/view?usp=share_link)
+
 ---
 
 ## 🧠 Segmentation Algorithms
