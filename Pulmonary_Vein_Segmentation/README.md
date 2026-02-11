@@ -43,8 +43,6 @@ We also performed **laminar, steady-state CFD simulations** on patient-specific 
 - Velocity profiles
 - Pressure distribution
 
-(…because we’d prefer not to cut someone open 😉)
-
 ### Boundary Conditions
 
 Simulations were run with **constant velocity inlet boundary conditions**, since patient-specific velocity profiles are not always available from CT imaging alone.
