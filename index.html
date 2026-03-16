@@ -1,83 +1,170 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Nili Project Hub</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nili Project Hub</title>
 
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8WYN3M84XN"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-8WYN3M84XN');
-</script>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8WYN3M84XN"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-8WYN3M84XN');
+  </script>
 
-<style>
-body{
-font-family: Arial, sans-serif;
-max-width:900px;
-margin:auto;
-padding:40px;
-line-height:1.6;
-}
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 1100px;
+      margin: auto;
+      padding: 40px 20px;
+      line-height: 1.6;
+      background: #f7f9fc;
+      color: #222;
+    }
 
-h1{
-border-bottom:2px solid #ddd;
-padding-bottom:10px;
-}
+    h1 {
+      margin-bottom: 10px;
+    }
 
-h2{
-margin-top:40px;
-}
+    .intro {
+      max-width: 800px;
+      margin-bottom: 40px;
+    }
 
-a{
-color:#0366d6;
-text-decoration:none;
-}
+    h2 {
+      margin-top: 40px;
+      margin-bottom: 16px;
+    }
 
-a:hover{
-text-decoration:underline;
-}
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 20px;
+    }
 
-ul{
-margin-top:10px;
-}
-</style>
+    .card {
+      display: block;
+      background: white;
+      border-radius: 14px;
+      padding: 22px;
+      text-decoration: none;
+      color: inherit;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+      transition: transform 0.18s ease, box-shadow 0.18s ease;
+    }
 
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 22px rgba(0,0,0,0.12);
+    }
+
+    .card h3 {
+      margin-top: 0;
+      margin-bottom: 10px;
+      color: #0b57d0;
+      font-size: 1.1rem;
+    }
+
+    .tag {
+      display: inline-block;
+      font-size: 0.8rem;
+      background: #eaf2ff;
+      color: #0b57d0;
+      padding: 4px 10px;
+      border-radius: 999px;
+      margin-bottom: 12px;
+    }
+
+    .award {
+      display: inline-block;
+      font-size: 0.8rem;
+      background: #fff4d6;
+      color: #8a5a00;
+      padding: 4px 10px;
+      border-radius: 999px;
+      margin-bottom: 12px;
+      margin-left: 6px;
+    }
+
+    .footer-note {
+      margin-top: 50px;
+      font-size: 0.95rem;
+      color: #555;
+    }
+  </style>
 </head>
-
 <body>
+  <h1>Nili Project Hub</h1>
 
-<h1>Nili Project Hub</h1>
+  <p class="intro">
+    Mechanical engineering, biomedical engineering, and automation projects completed during my studies
+    and professional work. This portfolio highlights CAD design, simulation, machining, prototyping,
+    and workflow automation.
+  </p>
 
-<p>
-Mechanical engineering, biomedical engineering, and automation projects completed during my studies
-and professional work. This portfolio highlights CAD design, simulation, machining,
-and workflow automation projects.
-</p>
+  <h2>Biomedical Engineering & Medical Projects</h2>
+  <div class="grid">
+    <a class="card" href="./ProstheticsDesign/">
+      <span class="tag">Biomedical Design</span>
+      <span class="award">CSME 2024 Winner</span>
+      <h3>Prosthetic Limb Design</h3>
+      <p>
+        Upper-limb prosthetic prototype focused on affordability, modularity, ergonomics, and manufacturability.
+      </p>
+    </a>
 
-<h2>Biomedical Engineering & Medical Projects</h2>
+    <a class="card" href="./Pulmonary_Vein_Segmentation/">
+      <span class="tag">Medical Imaging + CFD</span>
+      <h3>Pulmonary Veins Segmentation</h3>
+      <p>
+        CT-based segmentation, geometric analysis, and CFD simulations on patient-specific pulmonary vein models.
+      </p>
+    </a>
 
-<ul>
-<li><a href="./ProstheticsDesign/">Prosthetic Limb Design – CSME Award Winner</a></li>
-<li><a href="./Pulmonary_Vein_Segmentation/">Pulmonary Veins Segmentation & CFD Analysis</a></li>
-<li><a href="./ModelingCareClinic/">Palliative Care Clinic Simulation (Simul8)</a></li>
-</ul>
+    <a class="card" href="./ModelingCareClinic/">
+      <span class="tag">Healthcare Simulation</span>
+      <h3>Palliative Care Clinic Simulation</h3>
+      <p>
+        Simul8 model of outpatient clinic flow used to study staffing, bottlenecks, and capacity under rising demand.
+      </p>
+    </a>
+  </div>
 
-<h2>Mechanical Design & Manufacturing</h2>
+  <h2>Mechanical Design & Manufacturing</h2>
+  <div class="grid">
+    <a class="card" href="./CAD-Modeling/">
+      <span class="tag">CAD / SolidWorks</span>
+      <h3>CAD Modeling Projects</h3>
+      <p>
+        Gearbox, jigsaw mechanism, and custom ultrasound transducer mount with a focus on design for function and prototyping.
+      </p>
+    </a>
 
-<ul>
-<li><a href="./CAD-Modeling/">CAD Modeling & Gearbox Design</a></li>
-<li><a href="./Machining/">Machining Project – Aluminum Piston Assembly</a></li>
-</ul>
+    <a class="card" href="./Machining/">
+      <span class="tag">Machining</span>
+      <h3>Aluminum Piston Assembly</h3>
+      <p>
+        Hands-on lathe, mill, drill press, and assembly work completed through the MIE Machine Shop Access course.
+      </p>
+    </a>
+  </div>
 
-<h2>Automation & Data Tools</h2>
+  <h2>Automation & Data Tools</h2>
+  <div class="grid">
+    <a class="card" href="./Automated-Patient-Experience-Reports/">
+      <span class="tag">Excel VBA</span>
+      <h3>Vocantas Patient Follow-Up Automation</h3>
+      <p>
+        Automated reporting pipeline built in Excel VBA to transform raw text-based patient feedback into charts and PDF reports.
+      </p>
+    </a>
+  </div>
 
-<ul>
-<li><a href="./Automated-Patient-Experience-Reports/">Vocantas Patient Follow-Up Automation (Excel VBA)</a></li>
-</ul>
-
+  <p class="footer-note">
+    More screenshots, videos, and technical details will be added to individual project pages.
+  </p>
 </body>
 </html>
