@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pulmonary Veins Segmentation | Nili Project Hub</title>
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8WYN3M84XN"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-8WYN3M84XN');
+</script>
+
+<style>
+body{
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 40px;
+  line-height: 1.6;
+}
+
+h1{
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px;
+}
+
+a{
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.section{
+  margin-top: 30px;
+}
+</style>
+</head>
+
+<body>
+
+<p><a href="../">← Back to Project Hub</a></p>
+
+<h1>Pulmonary Veins Segmentation</h1>
+
+<p>
+Pulmonary veins play an essential role in the cardiovascular system by transporting oxygen-rich blood
+from the lungs to the left atrium of the heart.
+This project focused on extracting pulmonary vein geometry from CT scan images and analyzing the resulting models
+using geometric measurements and computational fluid dynamics.
+</p>
+
+<div class="section">
+  <h2>Project Overview</h2>
+  <p>
+    In this project, we studied how to identify and isolate pulmonary veins from CT imaging data.
+    In raw CT scans, vascular structures are not always easy to distinguish, so segmentation is a critical step
+    in converting medical image data into usable 3D anatomical geometry.
+  </p>
+  <p>
+    The core question behind this work was:
+    how can we define the region of interest clearly enough for software to extract the pulmonary veins accurately?
+  </p>
+</div>
+
+<div class="section">
+  <h2>Segmentation Algorithms</h2>
+  <p>
+    The main goal of this work was to study two commonly used segmentation approaches that allow us to move from:
+  </p>
+  <p><strong>CT Scan → Pulmonary Vein Geometry</strong></p>
+  <p>
+    Additional algorithm details and comparisons will be uploaded soon.
+  </p>
+</div>
+
+<div class="section">
+  <h2>Geometric Analysis</h2>
+  <p>
+    After segmentation, we computed several important geometric measurements to characterize patient-specific vein structures:
+  </p>
+  <ul>
+    <li><strong>Tortuosity:</strong> how curved or winding the vein is relative to a straight path</li>
+    <li><strong>Curvature:</strong> how the vessel bends in three-dimensional space</li>
+    <li><strong>Radius:</strong> an indicator of vessel size and potential blood flow capacity</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>CFD Simulations</h2>
+  <p>
+    We also performed laminar, steady-state CFD simulations on patient-specific pulmonary vein models
+    to investigate hemodynamic quantities such as:
+  </p>
+  <ul>
+    <li>Wall Shear Stress (WSS)</li>
+    <li>Velocity profiles</li>
+    <li>Pressure distribution</li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Boundary Conditions</h2>
+  <p>
+    Simulations were run using constant velocity inlet boundary conditions, since patient-specific inlet velocity data
+    is not always available directly from CT imaging.
+  </p>
+</div>
+
+<div class="section">
+  <h2>ANSYS Fluent Workflow</h2>
+  <p>
+    Part of the simulation workflow was explored in ANSYS Fluent to better understand the setup, solution process,
+    and interpretation of hemodynamic results in a biomedical context.
+  </p>
+</div>
+
+<div class="section">
+  <h2>Media</h2>
+  <p>
+    Video demonstration link coming soon.
+  </p>
+</div>
+
+</body>
+</html>
