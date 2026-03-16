@@ -1,36 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>CAD Modeling | Nili Project Hub</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vocantas Patient Follow-Up Automation | Nili Project Hub</title>
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8WYN3M84XN"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-8WYN3M84XN');
-  </script>
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8WYN3M84XN"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-8WYN3M84XN');
+</script>
+
+<style>
+body{
+font-family: Arial, sans-serif;
+max-width:900px;
+margin:auto;
+padding:40px;
+line-height:1.6;
+}
+
+h1{
+border-bottom:2px solid #ddd;
+padding-bottom:10px;
+}
+
+a{
+color:#0366d6;
+text-decoration:none;
+}
+
+a:hover{
+text-decoration:underline;
+}
+
+.section{
+margin-top:30px;
+}
+</style>
+
 </head>
+
 <body>
-  <p><a href="../">← Back to Project Hub</a></p>
 
-  <h1>CAD Modeling</h1>
-  <p>This project showcases CAD design work and modeling experience.</p>
+<p><a href="../">← Back to Project Hub</a></p>
 
-  <h2>Overview</h2>
-  <p>Add a short summary here.</p>
+<h1>Vocantas Patient Follow-Up Automation (Excel VBA)</h1>
 
-  <h2>Tools Used</h2>
-  <ul>
-    <li>SolidWorks</li>
-    <li>Fusion 360</li>
-    <li>MATLAB</li>
-  </ul>
+<p>
+This project automated the monthly reporting of patient feedback collected through a third-party
+automated call system (Vocantas). The solution eliminated hours of manual data cleaning and processing
+and was built entirely using native Excel tools due to strict hospital IT security policies.
+</p>
 
-  <h2>My Role</h2>
-  <p>Add what you personally designed or analyzed.</p>
+<div class="section">
+<h2>Project Summary</h2>
+
+<p>
+After receiving treatment, patients were contacted by an automated follow-up call asking about their
+experience (for example: “Were you helped promptly?” or “Did you encounter issues?”).
+</p>
+
+<p>
+The vendor returned results as large unstructured <strong>.txt</strong> files filled with raw text responses.
+I was initially responsible for manually compiling this data into monthly executive reports,
+but quickly identified an opportunity to automate the process.
+</p>
+</div>
+
+<div class="section">
+<h2>My Solution</h2>
+
+<ul>
+<li>Identified patterns in the raw text data that allowed it to be parsed and categorized.</li>
+<li>Avoided external tools due to hospital IT restrictions (no Python or external installs).</li>
+<li>Built the solution using Excel Macros (VBA), which was already available internally.</li>
+<li>Self-taught VBA using documentation, Stack Overflow, and tutorials.</li>
+<li>Reverse-engineered examples and adapted them to the hospital workflow.</li>
+</ul>
+
+</div>
+
+<div class="section">
+<h2>Features</h2>
+
+<ul>
+<li>📅 Date-driven reporting — generate reports for any date range.</li>
+<li>📊 Automatic charts showing patient feedback trends.</li>
+<li>📄 One-click PDF export for leadership reports.</li>
+<li>📁 Self-serve tool stored in a shared location for staff use.</li>
+<li>💬 Fully commented VBA code with documentation for onboarding.</li>
+</ul>
+
+</div>
+
+<div class="section">
+<h2>Impact</h2>
+
+<ul>
+<li>Replaced hours of manual data cleaning with a one-click automated report.</li>
+<li>Delivered the full tool in approximately two weeks.</li>
+<li>Reports became faster, more reliable, and accessible to non-technical staff.</li>
+<li>The tool was reportedly used regularly until the vendor changed systems.</li>
+</ul>
+
+</div>
+
+<div class="section">
+<h2>Key Skills</h2>
+
+<ul>
+<li>Excel VBA (Macros)</li>
+<li>Automation and workflow design</li>
+<li>String parsing and text processing</li>
+<li>User-focused tool design</li>
+<li>Self-directed learning</li>
+</ul>
+
+</div>
+
+<p><em>Screenshots and workflow diagrams will be added soon.</em></p>
+
 </body>
 </html>
