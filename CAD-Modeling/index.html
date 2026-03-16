@@ -1,36 +1,132 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>CAD Modeling | Nili Project Hub</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nili – CAD Portfolio</title>
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8WYN3M84XN"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-8WYN3M84XN');
-  </script>
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8WYN3M84XN"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-8WYN3M84XN');
+</script>
+
+<style>
+body{
+font-family: Arial, sans-serif;
+max-width:900px;
+margin:auto;
+padding:40px;
+line-height:1.6;
+}
+
+h1{
+border-bottom:2px solid #ddd;
+padding-bottom:10px;
+}
+
+.project{
+margin-top:40px;
+}
+
+.project h2{
+margin-bottom:5px;
+}
+
+a{
+color:#0366d6;
+text-decoration:none;
+}
+
+a:hover{
+text-decoration:underline;
+}
+
+ul{
+margin-top:5px;
+}
+</style>
+
 </head>
+
 <body>
-  <p><a href="../">← Back to Project Hub</a></p>
 
-  <h1>CAD Modeling</h1>
-  <p>This project showcases CAD design work and modeling experience.</p>
+<h1>3D Modeling Projects – CAD Portfolio</h1>
 
-  <h2>Overview</h2>
-  <p>Add a short summary here.</p>
+<p>
+This portfolio highlights a selection of 3D models and mechanical assemblies created using SolidWorks during my engineering education. 
+These projects were completed as part of coursework and collaborative design assignments and demonstrate my experience with CAD modeling, 
+assembly design, and mechanical power transmission concepts.
+</p>
 
-  <h2>Tools Used</h2>
-  <ul>
-    <li>SolidWorks</li>
-    <li>Fusion 360</li>
-    <li>MATLAB</li>
-  </ul>
+<!-- PROJECT 1 -->
+<div class="project">
+<h2><a href="./CAD-Modeling/">Right-Angle Gearbox – CAD Assembly</a></h2>
 
-  <h2>My Role</h2>
-  <p>Add what you personally designed or analyzed.</p>
+<p>
+This project demonstrates a compact right-angle gearbox designed in SolidWorks, featuring a 90° input-output configuration with vertical shaft offset.
+The assembly was created as part of a group design project to explore mechanical power transmission principles and 3D-printable gear design.
+</p>
+
+<h3>Design Overview</h3>
+<ul>
+<li>Input and output shafts oriented at 90°</li>
+<li>Shafts (6) and (7) are parallel but vertically offset</li>
+<li>Two gear pairs used:
+<ul>
+<li>Bevel Gear Pair (1:1 ratio) for 90° power transfer</li>
+<li>Spur Gear Pair (3:1 ratio) for speed reduction</li>
+</ul>
+</li>
+</ul>
+
+<h3>Design Decisions</h3>
+<ul>
+<li>Straight-tooth bevel gears selected for easier 3D printing</li>
+<li>Bevel gears: 20-tooth, 12 diametral pitch</li>
+<li>Spur gears: 20 and 60 teeth for a 3:1 reduction</li>
+<li>20° pressure angle with 20 DP for compact housing</li>
+</ul>
+</div>
+
+<!-- PROJECT 2 -->
+<div class="project">
+<h2><a href="./Pulmonary_Vein_Segmentation/">Jigsaw Mechanism – CAD Assembly</a></h2>
+
+<p>
+This model represents a simplified jigsaw mechanism designed to illustrate rotary-to-linear motion conversion, 
+a principle used in reciprocating power tools.
+</p>
+
+<h3>How It Works</h3>
+<ul>
+<li>A rotating gear drives a slotted disc</li>
+<li>A pin inside the disc slot converts rotary motion to reciprocating motion</li>
+<li>The central arm oscillates, simulating the motion of a jigsaw blade</li>
+</ul>
+</div>
+
+<!-- PROJECT 3 -->
+<div class="project">
+<h2><a href="./ProstheticsDesign/">Custom Ultrasound Transducer Mount – CAD Contribution</a></h2>
+
+<p>
+This project involved designing a custom 3D-printed ultrasound transducer holder for a biomedical research study.
+The work was presented at the Toronto Biomedical Conference (ToBE).
+</p>
+
+<h3>My Role</h3>
+<ul>
+<li>Created the initial CAD model</li>
+<li>Iterated through three design revisions</li>
+<li>Added fillets to remove sharp edges</li>
+<li>Adjusted dimensions for improved fit and stability</li>
+<li>Prepared files for 3D printing and testing</li>
+</ul>
+</div>
+
 </body>
 </html>
