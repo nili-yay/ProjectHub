@@ -91,44 +91,19 @@ The lower feet provide a stable bolting surface to secure the bracket onto anoth
 
 ### 📍 K-Factor
 
-The model uses **K-Factor = 0.45**.
+The model uses a **K-Factor of 0.45**, a common starting value for mild steel sheet metal.
 
-K-Factor represents the position of the neutral axis through the sheet thickness during bending.
+K-Factor represents the location of the neutral axis during bending and helps determine the correct flat pattern size. Typical values range from **0.30 to 0.50**, depending on material, thickness, bend radius, and tooling.
 
-\[
-K = \frac{t}{T}
-\]
-
-Where:
-
-- **t** = neutral axis distance from inside face  
-- **T** = material thickness  
-
-This directly affects flat pattern accuracy.
-
-👉 Learn more: https://www.thefabricator.com/thefabricator/article/shopmanagement/k-factors-y-factors-and-press-brake-bending-precision
+If incorrect, the final part may have dimensional errors, shifted holes, or poor fit after forming.
 
 ---
 
 ### 📍 Bend Allowance
 
-Bend allowance estimates how much material is consumed in the bend zone.
+Bend Allowance is the amount of material needed to form a bend and is used to calculate the flat blank length before manufacturing.
 
-\[
-BA = \theta(R + KT)
-\]
-
-Where:
-
-- **BA** = Bend Allowance  
-- **θ** = bend angle in radians  
-- **R** = inside bend radius  
-- **K** = K-Factor  
-- **T** = thickness  
-
-Correct values ensure the flat blank folds into the intended final part.
-
-👉 Learn more: https://sendcutsend.com/blog/what-is-bend-allowance/
+Accurate bend allowance ensures the finished part reaches the intended dimensions after bending. If wrong, it can lead to incorrect lengths, misalignment, and assembly issues.
 
 ---
 
