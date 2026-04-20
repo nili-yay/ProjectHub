@@ -35,7 +35,7 @@ Key learning outcomes included:
 ## 🖼️ Preview
 
 ### Final Model
-![Clamp Bracket](./images/steel-bracket.png)
+![Clamp Bracket]([./images/steel-bracket.png](https://github.com/nili-yay/ProjectHub/blob/main/Machining/SheetMetal/Part%201%20Drawing%202.pdf))
 
 ### Flat Pattern
 ![Flat Pattern](./images/flattened.png)
