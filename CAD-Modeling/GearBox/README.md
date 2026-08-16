@@ -12,7 +12,7 @@ This project demonstrates a compact right-angle gearbox designed using SolidWork
 ### 🧠 Design Decisions
 - **Straight-tooth bevel gears** were selected for ease of 3D printing and low-speed, low-torque operation.
 - **Gear 1 & 2**: 20-tooth bevel gears, 12 diametral pitch.
-- **Gear 3**: Spur gear pair with 20 and 60 teeth respectively to achieve a **3:1 speed reduction**.
+- **Gear 3 & 4**: Spur gear pair with 20 and 60 teeth respectively to achieve a **3:1 speed reduction**.
 - Spur gears use a **20° pressure angle** and a **20 DP** for printability and compact housing design.
 
 ### 🖼️ Preview
